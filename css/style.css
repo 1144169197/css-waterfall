@@ -3,6 +3,10 @@
     font-size: 14px;
     color: #333;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .item-content { 
 	-moz-column-count:4; /* Firefox */
 	-webkit-column-count:4; /* Safari 和 Chrome */
